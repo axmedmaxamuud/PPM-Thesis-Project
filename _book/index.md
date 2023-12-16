@@ -1,0 +1,24 @@
+--- 
+title: "The Role of Effective Coordination in Development Projects: The Case for Somaliland"
+author: "Ahmed Mohamoud Ahmed"
+#date: "2023-12-16"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+# Abastract {-}
+
+The study was intended to determine the role of effective coordination in development projects of Somaliland. 111 respondents from 15 institution operate in the entire country were interviewed during the data collecting and the data collection tool was administrated through an online platform powered by google in order to save time for data entry and analysis. 
+
+The purpose of the thesis was to bring insight and deeper understanding the role of effective coordination in development projects of Somaliland and in order to reach this the paper starts with identifying the coordination mechanisms in place including their challenges and opportunities and finally looking the role of information management and strategic planning in effective coordination. 
+
+Descriptive research method was applied in the study while the most of the data collected were all descriptive, an electronic version of the questionnaire was administrated among the respondents in order to minimize the time for data entry and analysis. results shown that there is information gap between the development partners while the most of the information collected is reflected from the donor’s demand rather then supporting the operational activities in the ground. 
+
+
